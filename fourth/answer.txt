@@ -1,0 +1,18 @@
+Ligue o Interruptor 1 e espere tempo suficiente para que a lampada aqueca.
+Desligue o Interruptor 1 e ligue o Interruptor 2.
+Va a sala de lampadas.
+A lampada que estiver acessa pertence ao Interruptor 2.
+A lampada apagada e fria pertence ao Interruptor 3.
+A lampada apagada e quente ou temperatura maior que a lampada apagada pertence ao Interruptor 1.
+
+----------------------------------------- Caso a lampada nao esquente.
+
+Ligue o Interruptor 1.
+Va a sala das lampadas
+Memorize qual lampada esta acessa.
+Volte aos interruptores.
+Desligue o Interruptor 1 e ligue o interruptor 2.
+Va a sala das lampadas.
+Lampada acessa pertence ao interruptor 2.
+Lampada apagada que nao estava ligada na primeira ida pertence ao interruptor 3.
+Lampada restante ao interruptor 1.
